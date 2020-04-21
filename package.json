@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-daterangepicker+",
+  "name": "boolie-bootstrap-daterangepicker",
   "version": "1.3.18",
   "description": "Date range picker component for Bootstrap forked from Dan Grossman",
   "main": "daterangepicker.js",
