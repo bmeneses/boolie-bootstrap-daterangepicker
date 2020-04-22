@@ -21,10 +21,6 @@
     "url": "https://github.com/boolie/bootstrap-daterangepicker/issues"
   },
   "homepage": "https://github.com/boolie/bootstrap-daterangepicker",
-  "engines": {
-    "node": "0.10.32",
-    "nmp": "1.4.28"
-  },
   "dependencies": {
     "jquery": "^2.1.1",
     "moment": "^2.8.3"
